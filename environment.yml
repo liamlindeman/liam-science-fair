@@ -1,0 +1,5 @@
+name: liam_science_fair
+
+dependencies:
+  - geopandas
+  - pandas

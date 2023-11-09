@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <title>State Trust Parcels</title>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>This data set consists of all trust parcels on State Trust land.  The data are created to serve as base information for use in GIS systems for a variety of planning and analysis purposes.  Access is granted to public agencies, educational institutions, non-profit organizations and private individuals for non-commercial purpose. For commercial use of the data see Arizona Revised Statutes 39-121.03.  All monthly updates to the surface parcels are performed by the ASLD's GIS Department through a series of editing procedures. 11/2022</abstract>
+            <purpose/>
+        </descript>
+        <spdom>
+            <bounding>
+                <westbc>-114.786979367607</westbc>
+                <eastbc>-109.045629632304</eastbc>
+                <northbc>37.0013179559093</northbc>
+                <southbc>31.3324770932416</southbc>
+            </bounding>
+        </spdom>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>State_Trust_Parcels</themekey>
+                <themekey>MapServer</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst/>
+        <datacred>Arizona State Land Department</datacred>
+    </idinfo>
+    <metainfo>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
