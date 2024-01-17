@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <title>quadgrid</title>
+                <geoform>vector digital data</geoform>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>This statewide data set consists of polygons representing the 7.5 minute USGS quadrangle boundaries covering the state of Arizona. Each polygon (Quad) contains an attribute for the quad number and quad name using the ALRIS quad numbering system.The data are created to serve as base information for use in GIS systems for a variety of planning and analysis purposes. Use of data for engineering work is prohibited.</abstract>
+            <purpose>The data are created to serve as base information for use in GIS systems for a variety of planning and analysis purposes.   Use of data for engineering work is prohibited.</purpose>
+        </descript>
+        <spdom>
+            <bounding>
+                <westbc>-115.103132</westbc>
+                <eastbc>-108.856199</eastbc>
+                <northbc>37.166210</northbc>
+                <southbc>31.193139</southbc>
+            </bounding>
+        </spdom>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>ALRIS</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>None</useconst>
+        <native>Esri ArcGIS 10.3.0.4322</native>
+    </idinfo>
+    <spdoinfo>
+        <direct>Vector</direct>
+        <ptvctinf>
+            <sdtsterm>
+                <sdtstype>GT-polygon composed of chains</sdtstype>
+                <ptvctcnt>1962</ptvctcnt>
+            </sdtsterm>
+        </ptvctinf>
+    </spdoinfo>
+    <eainfo>
+        <detailed>
+            <enttyp>
+                <enttypl>quadgrid</enttypl>
+                <enttypd>USGS 7.5' Quadrangles</enttypd>
+                <enttypds>Arizona State Land Department, Arizona Land Resource Information System</enttypds>
+            </enttyp>
+            <attr>
+                <attrlabl>Shape</attrlabl>
+                <attrdef>Feature geometry.</attrdef>
+                <attrdefs>ESRI</attrdefs>
+                <attrdomv>
+                                        
+                    <udom>Coordinates defining the features.</udom>
+                                    
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>PERIMETER</attrlabl>
+                <attrdef>Perimeter of feature in internal units.</attrdef>
+                <attrdefs>ESRI</attrdefs>
+                <attrdomv>
+                                        
+                    <udom>Positive real numbers that are automatically generated.</udom>
+                                    
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>AREA</attrlabl>
+                <attrdef>Area of feature in internal units squared.</attrdef>
+                <attrdefs>ESRI</attrdefs>
+                <attrdomv>
+                                        
+                    <udom>Positive real numbers that are automatically generated.</udom>
+                                    
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>QUAD</attrlabl>
+                <attrdef>ALRIS quad number</attrdef>
+            </attr>
+            <attr>
+                <attrlabl>NAME</attrlabl>
+                <attrdef>Name of quad</attrdef>
+            </attr>
+            <attr>
+                <attrlabl>LOCATION</attrlabl>
+                <attrdef>UNKNOWN</attrdef>
+            </attr>
+            <attr>
+                <attrlabl>QUADGRID_</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>FID</attrlabl>
+                <attrdef>Internal feature number.</attrdef>
+                <attrdefs>ESRI</attrdefs>
+                <attrdomv>
+                                        
+                    <udom>Sequential unique whole numbers that are automatically generated.</udom>
+                                    
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>QUADGRID_I</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>TILE_NAME</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>LATLONG_ID</attrlabl>
+            </attr>
+        </detailed>
+    </eainfo>
+    <distinfo>
+        <distliab>See access and use constraints information.</distliab>
+        <stdorder>
+            <digform>
+                <digtinfo>
+                    <formname>Shapefile</formname>
+                    <transize>0.255</transize>
+                </digtinfo>
+                <digtopt/>
+            </digform>
+        </stdorder>
+    </distinfo>
+    <metainfo>
+        <metd>20150512</metd>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
